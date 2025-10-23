@@ -29,6 +29,12 @@ import { ref } from 'vue'
 import EssentialLink from 'components/EssentialLink.vue'
 
 const linksList = [
+   {
+    title: 'knjiznica-početna',
+    caption: 'pocetna',
+    icon: 'favorite',
+    link: '#/',
+  },
   {
     title: 'Docs',
     caption: 'quasar.dev',
@@ -76,6 +82,18 @@ const linksList = [
     caption: 'proejkt_riva proejkt',
     icon: '',
     link: 'https://github.com/milafaks/proejkt_riva.git',
+  },
+  {
+    title: 'knjiznica-nove knjige',
+    caption: 'nove knjige',
+    icon: 'favorite',
+    link: '#/popisnovihknjiga',
+  },
+    {
+    title: 'knjiznica-popis knjiga',
+    caption: 'popis knjige',
+    icon: 'favorite',
+    link: '#/popisknjiga',
   },
 
 ]
