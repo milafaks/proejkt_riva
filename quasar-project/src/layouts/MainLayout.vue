@@ -95,6 +95,30 @@ const linksList = [
     icon: 'favorite',
     link: '#/popisknjiga',
   },
+    {
+    title: 'Pretraživanje',
+    caption: 'Pretraživanje',
+    icon: 'favorite',
+    link: '#/pretrazivanje',
+  },
+    {
+    title: 'Lokacija',
+    caption: 'Lokacija',
+    icon: 'favorite',
+    link: '#/lokacija',
+  },
+    {
+    title: 'Login',
+    caption: 'Login',
+    icon: 'favorite',
+    link: '#/login',
+  },
+    {
+    title: 'Registracija',
+    caption: 'Registracija',
+    icon: 'favorite',
+    link: '#/registracija',
+  },
 
 ]
 

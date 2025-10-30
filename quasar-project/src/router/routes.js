@@ -6,6 +6,10 @@ const routes = [
                { path: '/users', component: () => import('pages/UsersPage.vue') },
                { path: '/popisnovihknjiga', component: () => import('pages/NoveKnjigePage.vue') },
                { path: '/popisknjiga', component: () => import('pages/PopisKnjigaPage.vue') },
+               { path: '/pretrazivanje', component: () => import('pages/PretraživanjePage.vue') },
+               { path: '/lokacija', component: () => import('pages/LokacijaPage.vue') },
+               { path: '/login', component: () => import('pages/LoginPage.vue') },
+               { path: '/registracija', component: () => import('pages/RegistracijaPage.vue') },
               ]
 
   },
