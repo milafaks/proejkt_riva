@@ -119,6 +119,13 @@ const linksList = [
     icon: 'favorite',
     link: '#/registracija',
   },
+   {
+    title: 'test',
+    caption: 'test',
+    icon: 'favorite',
+    link: '#/test',
+  },
+
 
 ]
 
