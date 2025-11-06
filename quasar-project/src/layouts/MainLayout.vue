@@ -125,6 +125,12 @@ const linksList = [
     icon: 'favorite',
     link: '#/test',
   },
+   {
+    title: 'vjezba',
+    caption: 'vjezba',
+    icon: 'favorite',
+    link: '#/vjezba',
+  },
 
 
 ]
